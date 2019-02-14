@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 class="has-text-info is-size-1">{{ msg }}</h1>
+    <h1 class="has-text-info is-size-3">{{ msg }}</h1>
     <button class="button is-primary">BUTAO</button>
   </div>
 </template>
