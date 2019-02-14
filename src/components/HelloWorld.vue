@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1 class="has-text-info is-size-3">{{ msg }}</h1>
-    <button class="button is-primary">BUTAO</button>
+    <h1 class="has-text-primary is-size-3">{{ msg }}</h1>
+    <button class="button is-primary is-outlined">Clique aqui para saber mais</button>
   </div>
 </template>
 
